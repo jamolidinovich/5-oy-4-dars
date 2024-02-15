@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-size: 70px;
+}
+.header {
+  width: 900px;
+  height: 900px;
+  border: 10px solid black;
+  margin: 0 auto;
+  border-radius: 30px;
+  background: rgb(2, 0, 36);
+  background: linear-gradient(
+    90deg,
+    rgba(2, 0, 36, 1) 1%,
+    rgba(0, 212, 255, 1) 99%
+  );
+}
+#ism {
+  margin-top: 100px;
+  margin-left: 150px;
+}
+#familya {
+  margin-left: 150px;
+}
+#yosh {
+  margin-left: 150px;
+}
+
+#email {
+  margin-left: 150px;
+}
+#btn {
+  margin-left: 150px;
+}
